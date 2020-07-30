@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/lokole/static/js/main.8dff751d.chunk.js",
+    "main.js.map": "/lokole/static/js/main.8dff751d.chunk.js.map",
+    "runtime-main.js": "/lokole/static/js/runtime-main.e17e7094.js",
+    "runtime-main.js.map": "/lokole/static/js/runtime-main.e17e7094.js.map",
+    "static/css/2.63aa2317.chunk.css": "/lokole/static/css/2.63aa2317.chunk.css",
+    "static/js/2.43b111c4.chunk.js": "/lokole/static/js/2.43b111c4.chunk.js",
+    "static/js/2.43b111c4.chunk.js.map": "/lokole/static/js/2.43b111c4.chunk.js.map",
+    "index.html": "/lokole/index.html",
+    "precache-manifest.8d21a3abb18c1225a7a43089093330e9.js": "/lokole/precache-manifest.8d21a3abb18c1225a7a43089093330e9.js",
+    "service-worker.js": "/lokole/service-worker.js",
+    "static/css/2.63aa2317.chunk.css.map": "/lokole/static/css/2.63aa2317.chunk.css.map",
+    "static/js/2.43b111c4.chunk.js.LICENSE.txt": "/lokole/static/js/2.43b111c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e17e7094.js",
+    "static/css/2.63aa2317.chunk.css",
+    "static/js/2.43b111c4.chunk.js",
+    "static/js/main.8dff751d.chunk.js"
+  ]
+}
